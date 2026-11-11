@@ -4,4 +4,3 @@ print(type(player_average))
 
 print(float())
 
-print("----------------------------------------------------------")
